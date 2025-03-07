@@ -20,4 +20,6 @@ Relies mostly on the methodology from Arditi et al. [1]
 
 The codebase focuses on identifying and analyzing political censorship directions in language model activations, with tools for both computing these directions and measuring their effects when removed.
 
+Credits: I built off code from https://github.com/AUGMXNT/deccp/tree/main.
+
 [1] https://arxiv.org/abs/2406.11717
