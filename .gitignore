@@ -1,0 +1,7 @@
+.env/
+*.png
+*ipynb
+*old
+check*
+*.xlsx
+*.DS_Store
